@@ -6,6 +6,6 @@ what is whistle occurrence?
 
 
 ```lua
-local lol = "Https://
+local lol = "https://raw.githubusercontent.com/ZRMG0810/Whistle-Occurrence-Project/refs/heads/main/Whistle-Ocurrence.lua
 loadstring(game:HttpGetAsync(lol))()
 ```
